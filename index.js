@@ -34,12 +34,7 @@ function calculator(a, b) {
   return callback => callback(a, b)
 }
 
-var sum = calculator()
-function soma(sum){
- var c = a + b;
-    return c;
-}
-console.log(soma);
+
 
 
 //4° Questao
